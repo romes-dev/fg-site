@@ -1895,14 +1895,14 @@
             >
             <ul>
               <li>
-                <a href="demo-elearning-courses.html">Técnico em Agrimensura</a>
+                <a href="cursos-agrimensura.html">Técnico em Agrimensura</a>
               </li>
               <li>
-                <a href="demo-elearning-courses.html"
+                <a href="cursos-eletrotecnica.html"
                   >Técnico em Eletrotécnica</a
                 >
               </li>
-              <li><a href="demo-elearning-courses.html">Ensino Médio</a></li>
+              <li><a href="eja-medio.html">Ensino Médio</a></li>
               <li>
                 <a href="eja-fundamental.html">Ensino Fundamental</a>
               </li>
